@@ -47,6 +47,6 @@ jobs:
         prerelease: false
         body: Release, compare Git commits.
         files: |
-          512x125.zip
+          512x512.zip
           256x256.zip
           128x128.zip
